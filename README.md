@@ -8,7 +8,7 @@ Project Movie List adalah sebuah projek website untuk menambahkan daftar movie.
 
 **Client:** Boostrap , JQUERY
 
-**Server:** Flask, python
+**Server:** Flask, python, mongodb
 
 
 ## Installation
