@@ -2,6 +2,7 @@ beautifulsoup4==4.9.3
 blinker==1.5
 bs4==0.0.1
 certifi==2021.10.8
+charset-normalizer==2.0
 click==7.1.2
 dnspython==1.16.0
 Flask==1.1.4
