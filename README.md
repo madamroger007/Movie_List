@@ -1,7 +1,7 @@
 
 # Projek Movie List
 
-Project Whistlist adalah sebuah projek website untuk menambahkan daftar harapan.
+Project Movie List adalah sebuah projek website untuk menambahkan daftar movie.
 
 
 ## Tech Stack
